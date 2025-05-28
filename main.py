@@ -1,8 +1,8 @@
 
 import streamlit as st
 
-st.set_page_config(page_title="군 장병 온열손상 시스템", layout="centered")
-st.title("🧭 군 장병 온열손상 종합 대시보드")
+st.set_page_config(page_title="군 장병 온열손상 경보 시스템", layout="centered")
+st.title("🧭 군 장병 온열손상 종합 경보 시스템")
 
 st.markdown("""
 ### 📌 시스템 개요
